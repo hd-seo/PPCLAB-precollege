@@ -68,8 +68,9 @@
 * 강원대학교 약학대학 맞춤형 약료학 연구실 서현덕
     * 본 프로그램은 강원대학교 약학대학의 Pre-College 프로그램의 일환으로 제작되었습니다.
 
-
-
+#### 사진 자료 출처
+: https://blog.naver.com/charmacist_official/223657450533 [수원스타필드]:참약사
+: https://wikidocs.net/book/16247 [The Universe of AI - 한글] : 고민수
 
 
 
