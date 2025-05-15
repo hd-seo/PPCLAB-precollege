@@ -72,6 +72,10 @@
 
 
 
+
+## 📄 라이선스 (License)
+
+This project is licensed under the MIT License.
 Copyright (c) 2024 [강원대학교 약학대학 맞춤형 약료학 연구실]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
